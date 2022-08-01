@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: syllabus
 image: /images/19680810_20_Anti-War_March.jpg
 ---
