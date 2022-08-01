@@ -1,7 +1,7 @@
 ---
 layout: post
 title: calendar
-image: /images/embrace.jpg
+image: /images/Japan68.jpeg
 ---
 
 1. week
