@@ -1,6 +1,6 @@
 ---
 title: assignments
-image: https://images.mubicdn.net/images/film/119021/cache-105124-1599079162/image-w1280.jpg
+image: /images/Mexico68.webp
 layout: post
 ---
 
