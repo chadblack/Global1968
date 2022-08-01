@@ -1,7 +1,7 @@
 ---
 layout: page
 title: syllabus
-image: /images/Japan1968.jpeg
+image: /images/19680810_20_Anti-War_March.jpg
 ---
 
 
