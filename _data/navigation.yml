@@ -1,23 +1,8 @@
-# Sample site navigation bar links
-
-- title: Latin American History at the Movies
-  url: /
-- title: posts
-  url: /posts/
-- title: syllabus
-  url: /syllabus/
-- title: calendar
-  url: /calendar/
-- title: assignments
-  url: /assignments/
-
-# - title: Categories
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
-#   url: /recipes/
-# - title: Search
-#   url: /search/
-# - title: External Page
-#   url: https://the-page.com/you-want-to-link-to.html
+- name: legalese
+  link: /legalese/
+- name: calendar
+  link: /calendar/
+- name: assignments
+  link: /assignments/
+- name: posts
+  link: /blog/

@@ -1,167 +1,281 @@
 ---
-layout: page
+layout: post
 title: calendar
+image: /images/embrace.jpg
 ---
 
-# 1. January 14, 2019: Introduction
+1. week
+{:toc}
 
-**Readings:**
+## Week 1: Introduction to the course and Latin America
 
-1. The WHOLE Syllabus!
+We begin the semester thinking about colonial legacies in modern Latin America.
+Pay close attention to the problems that Stern identifies as enduring
+challenges rooted in Latin America's colonial period.
 
-# Origins of Revolution
+**January 25 (Tuesday)**
 
-## 2. January 21, 2019: Lecture/Discussion
+Read: 
 
-**Readings:**
+* The [Syllabus]() and website.
 
-1. Chasteen, Born in Fire, Ch. 6-7.
-2. Donald F. Stevens, *Based on a True Story: Latin American History at the
-   Movies*, Intro and Chapter 1.
-3. [Tom Gunning, “Making Sense of
-   Film.”](http://historymatters.gmu.edu/mse/film/)
+**January 27 (Thursday)**
 
-**Due:** Précis on the three!
+Read:
 
+* Steve Stern, "The Tricks of Time: Colonial Legacies and Historical
+  Sensibilities in Latin America," *The Princeton University Library
+  Chronicle* 57.3 (Spring 1996), pp. 371-392.
 
-## 3. January 28, 2019: ¡Que Viva México!
+**DUE:** Précis paragraph on Stern.
 
-**Readings:**
+## Week 2: Modernity I
 
-1. Meyer, Sherman, Deeds, The Course of Mexican History, Chs. 8-9.
-2. Stephen Hart, “Que Viva México!”, pp. 17-24 in A Companion to Latin American Film.
-2. Chris Robé, “Enstein in America: The Que Viva Mexico! Debates and the Emergent Popular Front in US Film Theory and Criticism.”
+In order to understand the relationship between Indigenous People and
+Modernity, we need to spend some time understanding theories and ideologies of the nation
+state, capitalism, development, and the order of things. This week and next, we
+will read both some general theory and work on Latin America.
 
-**Due:** Précis
+Do your best to define the commercialization, marxist, and postcolonial
+explanation for the transition to capitalism.
 
-## 4. February 4, 2019: Soy Cuba
+**February 1 (Tuesday)** 
 
-**Readings:** 
+Read:  
+* Alex Anievas and Kerem Nisancioglu, *How the West Came to Rule*, pp. 13-42.
 
-1. Chasteen, Born in Fire, Ch. 8.
-2. Susan Eckstein, “The Impact of the Cuban Revolution: A Comparative
-   Perspective,” Comparative Studies in Society and History, Vol. 28, No.
-   3 (Jul., 1986), pp. 502-534. (Available through JSTOR.) **OR** Alejandro dela Fuente, “Race, National Discourse, and Politics in Cuba: An Overview.” Latin American Perspectives 25.3 (1998): 43-69. (Available through JSTOR.)
+**February 3 (Thursday)** 
 
-**Due:** Précis
 
-# The City
+Read:  
 
-## 5. February 11, 2019: On the City Lecture/Discussion
+* Grandin, Blood, pp. 1-25.
 
-**Readings:**
+**DUE:** Reaction paper on the transition to capitalism.
 
-1. Excerpt from Alma Guillermoprieto’s The Heart That Bleeds “Mexico City” pgs.237-258.
-2. “The Drive-by Victim” in Citizens of Fear: Urban Violence in Latin America. pgs.130-137.
 
-**Due:** Revolutions Paper, Précis
 
-## 6. February 18, 2019: Cidade de Deus
+## Week 3: Modernity II
 
-**Readings:**
+February 8 (Tuesday)  
 
-**Due**: Précis, Topic+Films
+Read:
 
-1. Julio César Pino, “Labor in the Favelas of Rio de Janeiro, 1940-1969,” LAP 25.2 (198): 18-40.
-2. Ney dos Santos Oliviera, “Favelas and Ghettos: Race and Class in Rio de Janeiro and New York city,” Latin American Perspectives 23.4 (1996): 71-89.
+* Grandin, *Blood*, pp. 82-98.
 
 
-## 7. February 25, 2019: Bus 174
+February 10 (Thursday)  
 
-**Readings:**
+Read:  
 
-1. “I saw a City Invincible” pgs xi – 31.
+* Rebecca Earle, "Patriotic History and the Pre-Columbian Past, *The Return of
+  the Indian*, pp. 100-132.
 
-**Due**: Précis
 
-## 8. March 3, 2019: Counterrevolution and Dirty Wars
+**DUE:**  
 
-**Readings:**
+* Research Memo on Earle.
 
-1. Thomas C. Wright, “Chile Under State Terrorism,” in State Terrorism in Latin America. Chile, Argentina, and International Human Rights (Lanham: Rowman & Littlefield Publishers, 2007), pp. 47-94.
+## Week 4: Early Films and Indigenous People
 
-**Due**: Précis 
+Films: *Wara Wara* (1930), *Saludos Amigos*, 
 
-**City Paper due March 8.**
+February 15 (Tuesday)  
 
-## 9. March 10, 2019: Roma
+Read:  
 
-Readings: 
+* Rebecca Earle, "Citizenship and  Civilization: The 'Indian Problem'," ppr.
+  161-183.
 
-1. Joseph Pierce, ["Roma is a Beautiful Film of Indigenous
-   Erasure"](https://newsmaven.io/indiancountrytoday/opinion/roma-is-a-beautiful-film-of-indigenous-erasure-BuOrS3iGSEmLaNZcSHP2Uw)
 
-2. Celeste González Bustamante, “1968 Olympic Dreams and Tlatelolco Nightmares: Imagining and Imaging Modernity on Television,” Mexican Studies/Estudios Mexicanos, 26.1 (2010): 1-30.
+February 17 (Thursday)  
 
-**Due**: Précis 
+Read:  
 
-## 10. March 17, 2019: Rest
+* None.
 
-It's Spring Break. I hope that you're taking a break, for at least most of the
-week. Then, get back to work people.
+**DUE:** Research Memo on Earle.
 
-## 11. March 24, 2019: The Violin
+## Week 5: Colombia I
 
-**Readings:**
+February 22 (Tuesday) Violence, Belief, Development 
 
-1. Jorge Mendoza García and Victoria J. Furio, "Reconstructing the
-   Collective Memory fo Mexico's Dirty War: Ideologization, Clandestine
-   Detention, and Torture," *LAP* 43.6 (Nov 2016).
+Read:  
 
-**Due**: Précis, Final Project Bibliography
+* Britto, pp. 1-56.
 
-## 12. March 31, 2019: Indigenous and Modern
 
-**Readings:**
+February 24 (Thursday)  
 
-1. Carlos Figueroa Ibarra, "A Mexican Bolshevik in Central America," *The
-   Guatemala Reader*.
+Read:  
 
-2. Government of Guatemala, "Most Precious Fruit of Revolution," *The
-   Guatemala Reader*.
+**DUE:**  
 
-3. John Charles Chasteen, "Atlantic World," Chapter 3 in *Getting High:
-   Marijuana through the Ages* (Rowman & Littlefield, 2016).
+Research memo on Britto.
 
-**Due**: Précis.
+## Week 6: Colombia II
 
-**Counterrevolutions Paper due no later than April 5th.**
+Film: *Embrace of the Serpent*  
 
-## 13. April 7, 2019: Birds of Passage
+March 1 (Tuesday)  
 
-**Readings:**
+Read:  
 
-1. William Avilés, "The Wayúu tragedy: death, water and the imperatives of
-   global capitalism," *Third World Quarterly* 20.9 (2019).
+* Enrique Bernales Albites, "Indigenous Narratives of Creation and Origin in
+  *Embrace of the Serpent*, by Ciro Guerra," *English Language Notes*, 58.1
+  (April 2020), pp. 200-213.
 
-2. Andrés López Restrepo and Álvaro Camacho Guizado, "From Smugglers to
-   Warlards: Twentieth Century Colombian Drug Traffickers," *Canadian
-   Journal of Latin American and Caribbean Studies* 28.55-56 (2003).
 
-**Due**: Précis
+March 3 (Thursday)  
 
-## 14. April 14, 2019: Ixcanul
+Read: Film Discussion
 
-**Readings:**
+* William T. Fischer, "Shamanism as a Strategy of Domination: BrujerÍa in the
+  Ecuadorian Amazon in the Middle of the Twentieth Century," *The Latin
+  Americanist*, 65.3 (Sept 2021), pp. 341-366.
+  [Here](https://muse.jhu.edu/article/805478).
 
-1. Commission for Historical Clarification, "Acts fo Genocide," *The
-   Guatemala Reader*.
+**DUE:**  
 
-2. US State Dept & Embassy in Guatemala, "We Cannot Confirm nor Deny,"
-   *The Guatemala Reader*.
+Research memo on Fischer.
 
-3. Amanda Alfaro Córdoba, "Can Maria Speak?: Interpreting
-   *Ixcanul/Volcano* (2015) from a decolonial perspective," *Studies in
-   Spanish and Latin American Cinema* 15.2 (2018).
+## Week 7: Colombia III
 
+Film: *Pájaros de verano*  
 
-**Due**: Précis
+March 8 (Tuesday) Film Discussion.
 
-## 15. April 21: Zoom office hours to discuss final projects
+Read:  
 
-**Due**: Indigenous Modernities Paper
+* Britto, pp.57-89.
 
 
-# FINAL Project DUE  -- May 1st!!
+March 10 (Thursday) No class.
 
+Read:
 
+* Britto, 116-146.
+
+
+**DUE:**  
+
+Colombia Paper on Britto and Films. 
+
+
+## Week 8: SPRING BREAK
+
+Enjoy your break. But not too much.
+
+## Week 9: Guatemala I 
+
+March 22 (Tuesday)  
+
+Read:  
+
+* Grandin, 110-129.
+
+March 24 (Thursday)  
+
+Read:  
+
+Grandin, 130-158.
+
+
+**DUE:** Research memo on Grandin.
+
+
+## Week 10: Guatemala II
+
+Film: *Ixcanul*  
+
+March 29 (Tuesday)  
+
+Read: 
+
+* Grandin, 159-197.
+
+March 31 (Thursday) Film Discussion.
+
+Read:
+
+* Amanda Alfaro Córdoba, "Can Maria Speak? Interpreting *Ixcanul/Volcano* (2015) from a Decolonial Perspective," *Studies in Spanish and Latin American Cinema*.
+
+
+**DUE:** Research memo on Grandin.
+
+## Week 11: Guatemala III
+
+Film: *La Llorona*
+
+April 5 (Tuesday)  
+
+Read:  
+
+* Commission for Historical Clarification, "Acts of Genocide," *The Guatemala Reader*.
+
+* US State Department and Embassy in Guatemala, "We Cannot Confirm nor Deny," *The Guatemala Reader*.
+
+April 7 (Thursday): Discussion of *La Llorona*.
+
+**DUE:** Guatemala paper on Grandin and Films.
+
+## Week 12: Recharge.
+
+April 12 (Tuesday) **Recharge your batteries for the final push.**
+
+April 14 (Thursday) **No Class**  
+
+
+## Week 13: Andes I
+
+April 19 (Tuesday): New Social Movements in the Andes 
+
+Read: 
+
+* Debora Yashar, *Contesting Citizenship in Latin America*, pp. 54-84.
+
+
+April 21 (Thursday): Oil, Army, Missionary  
+
+Read:  
+
+* Derrick Hindery, *From Enron to Evo*, pp. 27-51.
+
+**DUE:** Reserach memo on Yashar or Hindery. 
+
+## Week 14: Andes II
+
+Film: *Cocalero*
+
+April 26 (Tuesday): Bolivia's resource wars.  
+
+Read:  
+
+* Rachel Gutierrez Aguilar, *Rhythms*, pp. 3-27, 99-128.
+
+April 28 (Thursday): Discuss *Cocalero*.
+
+
+## Week 15: Andes III
+
+Film: *Opening the Earth: The Potato King*
+
+May 3 (Tuesday).  Discussion of *Opening the Earth*.
+
+Read:  
+
+* *Earth Beings*
+
+
+May 5 (Thursday): The future of Indigenous politics?
+
+Read:  
+
+**DUE:** Andes film paper. Chose one film, and one book.
+
+## Week 16: Wrap it up!
+
+May 10 (Tuesday)  
+
+
+**DUE:**  
