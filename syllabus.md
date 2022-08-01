@@ -5,94 +5,51 @@ image: /images/19680810_20_Anti-War_March.jpg
 ---
 
 
-Latin American History at the Movies  
-Spring 2020  
+Global 1968
+History 499, Fall 2022
 
 **Prof. Chad Black**  
 **Email:** cblack6@utk.edu  
 **Phone:** 974-9871  
 **Office:** 2627 Dunford Hall, 6th Floor  
-**Office Hours:** Wednesday 2:30-4:30, or by appointment
+**Office Hours:** Tuesday 1:30-3:30, or by appointment
 
+{:toc}
 
 # About
 
-Moving pictures have long marveled Latin America. In what was almost
-certainly the first demonstration of the technology south of the Rio
-Bravo, the [Lumiére
-brothers](http://www.earlycinema.com/pioneers/lumiere_bio.html) showed
-Mexican President Porfirio Díaz
-[flims](http://www.youtube.com/watch?v=4nj0vEO4Q6s) in Chapultepec Castle
-in 1896! As moving picture technology spread throughout the world,
-including Latin America, it radically altered how individuals and groups
-in the region perceived themselves, and were represented by others. Film
-(and later television) has been a source of enjoyment, a powerful
-propaganda tool, a medium of artistic expression, and a driving force of
-national identity. 
-
-In this class, we will focus on how important themes in
-the history of Modern Latin America have been portrayed on screen--
-urbanization, migrations, revolutions, narcotrafficking, nationalism, and
-more. While films will be a central component of our approach to the
-region's history, course readings will serve as the basis for our
-discussion and written evaluations weekly. How has the popular cinema
-industry portrayed modern Latin American history? We will watch and
-analyze films from the United States, Mexico, Chile, Colombia, Brazil, and
-elsewhere that grapple with various aspects of the conundrum of the modern
-period.
-
-Most films will be in Spanish with English subtitles. The majority of the
-films are rated R for strong language, violence, and/or sexual content.
-These topics (sex and violence) are not the main topic of the films, but
-are used to convey the struggles and reality of 
-contemporary struggles in the twentieth century in. In class we will discuss at
-length the themes that go beyond the uninformed viewer’s interpretation of
-the film. If, however, you feel uncomfortable with these topics please
-come speak to me.
-
-# Readings
-
-This semester, I am not requiring you to purchase any books. All readings will
-be provided to the student electronically.
-
-# Films for Viewing
-
-We will watch eight feature-length films this semester, as well as other
-selections or shorts:
-
-1. *Que viva México* (1931/1979) -- Soviet Union/México.
-2. *Soy Cuba* (1964) -- Soviet Union/Cuba.
-3. *Cidade de Deus* (2002) -- Brazil.
-4. *Bus 174* (2002) -- Brazil.
-5. *The Violin* (2007) -- México.
-6. *Roma* (2018) -- México.
-7. *Birds of Passage* (2018) -- Colombia.
-8. *Ixcanul* (2015) -- Guatemala. 
-
-# Course Requirements
-
-Students are required to engage in this class. Learning is an interactive
-process, and requires active participation by all members of the class.
-Students need to read, write, and attend lecture in order to be successful in
-this class. The history of Latin America is being written as we
-speak in the quotidian actions of indigenous people, politicians, artists, and more.
-Likewise, history reverberates in the events of today, as well as their
-meanings. As part of this course, students are required to read news from Latin
-America. In addition to these weekly activities, there are a series of formal assignments. 
-
-
-These assignments are designed to contribute to the overall objectives of the
-semester, including both content-specific and skill-based goals. 
+In 1968, the world felt like it was on a revolutionary precipice.
+Assassination, protest, uprising, war, utopian dreams, consciousness… so much
+seemed to be on the table. The heaviness of that year, of its possibilities and
+its threats, continues to haunt global politics and capital accumulation, even as
+dreams of change have ceded to a capitalist realism. This class will ask the
+question, “What were the stakes of 1968?” Students will read theories and
+histories that defined the moment, often synonymous with the shorthand of their
+location and time: Japan ’68, Mexico ’68, May ’68, etc. Students will conduct
+research and write capstone papers on some aspect of Global 1968, following the
+themes of the course. The stakes of that paper are graduation!
 
 # Course Objectives
 
-1. To read Latin American history, and use the information as a basis for
-   media critique.
-2. To learn to identify how film mediates, represents the history it
-   attempts to visually reconstruct.
-3. To learn to synthesize a variety of sources, evaluate them, and
-   articulate in written and oral form an argument.
+Department guidelines for 499 set the following expectations for students:
 
+1. to research and write a paper that displays the skills they have learned throughout the major;
+
+2. to learn to develop a research question;
+
+3. to learn to build an argument using primary sources and relevant secondary literature;
+
+4. to do history on another level, not merely as consumers but as writers of history;
+
+5. to progress to a stage where they can conduct research and teach themselves things they don’t know;
+
+6. to learn to take a large volume of information and explain it in an intelligible format.
+
+These skills will culminate in the student writing a 4,500-6,000 word research paper in which they advance their own historical argument. We will work on these goals on paper and in discussion.
+
+Reading, writing, and oral assignments for this course are designed to meet
+these goals. In meeting them, you will also be able to place global unrest
+and backlash from 1968 in its historical contexts and ambiguities.
 
 # Policies
 
@@ -125,9 +82,18 @@ work turned in for this class must meet University standards for academic
 honesty. Any students unsure about how to apply these rules are urged to
 consult with me prior to turning in any written work. 
 
-**Office Hours:** Students are strongly encouraged to speak with me outside of class. The advantages of talking with me include: extra help on an assignment or preparation for an exam; clarification of materials covered in lecture, discussion of my comments on your work; discussion of this or related courses. I am available during office hours on a first-come, first-served basis; if you cannot come by during office hours, please contact me via email or phone and I will be happy to set up an appointment with you.
+**Drop-In Hours:** Students are strongly encouraged to speak with me outside of
+class. The advantages of talking with me include: extra help on an assignment
+or preparation for an exam; clarification of materials covered in lecture,
+discussion of my comments on your work; discussion of this or related courses.
+I am available during office hours on a first-come, first-served basis; if you
+cannot come by during office hours, please contact me via email or phone and
+I will be happy to set up an appointment with you.
 
-**Changes:** I reserve the write to change this syllabus as the semester progresses. This is not a contract, but rather a document to guide expectations and clearly communicate weekly assignments. Please bring the syllabus with you to our class meetings. Or, keep up with it on the course website.
+**Changes:** I reserve the write to change this syllabus as the semester
+progresses. This is not a contract, but rather a document to guide expectations
+and clearly communicate weekly assignments. Please bring the syllabus with you
+to our class meetings. Or, keep up with it on the course website.
 
 
 
