@@ -34,7 +34,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: parezcoydigo
+  username: chad_black_
 
 # Liquid
 liquid:
@@ -90,7 +90,7 @@ author:
   name: Chad Black
   picture:
   email: cblack6@utk.edu
-  twitter: parezcoydigo
+  twitter: chad_black_
   links:
     - title:
       url:
@@ -102,5 +102,5 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
   - title: Twitter
-    url: http://twitter.com/parezcoydigo
+    url: http://twitter.com/chad_black_
     icon: fab fa-twitter-square
