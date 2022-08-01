@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: HILA 370
-url: "https://chadblack.net/370S2022/"
+title: Global 1968
+url: "https://chadblack.net/Global1968/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Latin American History at the Movies
+description: History 499, Fall 2022 
 author:
   name:
   email:
