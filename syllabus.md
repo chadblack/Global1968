@@ -1,6 +1,7 @@
 ---
 layout: page
 title: syllabus
+image: /images/Japan1968.jpeg
 ---
 
 
