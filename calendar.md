@@ -9,15 +9,11 @@ image: /images/Japan68.jpeg
 
 ## Aug. 24: Introduction to the Course
 
-We begin the semester thinking about colonial legacies in modern Latin America.
-Pay close attention to the problems that Stern identifies as enduring
-challenges rooted in Latin America's colonial period.
-
 Read: 
 
 * The [Syllabus]() and website.
 
-**DUE:** Précis paragraph on Stern.
+**DUE:** 
 
 ## Aug. 31: 
 
@@ -25,7 +21,7 @@ Read:
 Read:  
 
 
-**DUE:** Reaction paper on the transition to capitalism.
+**DUE:** 
 
 
 
@@ -40,14 +36,12 @@ Read:
 
 **DUE:**  
 
-Research memo on Fischer.
 
 ## Sep. 28:
 
 
 **DUE:**  
 
-Colombia Paper on Britto and Films. 
 
 
 ## Oct. 5: Fall Break
@@ -57,30 +51,30 @@ Enjoy your break. But not too much.
 ## Oct. 12:  
 
 
-**DUE:** Research memo on Grandin.
+**DUE:** 
 
 
 ## Oct. 19: 
 
 
-**DUE:** Research memo on Grandin.
+**DUE:** 
 
 ## Oct. 26:  
 
-**DUE:** Guatemala paper on Grandin and Films.
+**DUE:** 
 
 ## Nov. 2:  
 
 ## Nov. 9: 
 
-**DUE:** Reserach memo on Yashar or Hindery. 
+**DUE:** 
 
 ## Nov. 16: 
 
 
 ## Nov. 23:
 
-**DUE:** Andes film paper. Chose one film, and one book.
+**DUE:** 
 
 ## Nov. 30: 
 
