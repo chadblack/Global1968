@@ -1,7 +1,7 @@
 ---
 title: Films 1968
 image: /images/pig.webp 
-layout: page
+layout: post
 ---
 
 Provocative cinema from or about 1968.
