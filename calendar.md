@@ -22,7 +22,7 @@ a celebrity out of an aging German cultural theorist who had escaped the Nazi
 regime. Herbert Marcuse's most famous book, *One Dimensional Man*, became
 a reference text for a decade that aspired to liberation. That same popularity
 has made his work still today the object of cultural and political backlash.
-What did he say that both resonated with youth of the 1960s, while also still
+What did he say that resonated with youth of the 1960s, while also still
 being perceived as threatening to this day? What were his divisive concepts?
 
 Read:  
