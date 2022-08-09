@@ -35,9 +35,24 @@ There are four books for purchase:
    discussions and lecture. All students must participate in discussions
    and as we dissect the films.
 
-2. **Weekly Assignments. (25%)**
+2. **Weekly Assignments. (35%)**
+
+    Each week, there will be some type of assignment designed to help you move
+    along your research. These may include reading précis, outlines,
+    bibliography work, research plans, primary source analyses, etc. Some of
+    these are predetermined. Others, I will assign based on how the course is
+    going and what your strengths and weaknesses seem to be. So, stay tuned!
    
 
-3. **Final Paper. (60%)**
+3. **Final Paper. (50%)**
    
+   The paper to end all papers. Students will write a research paper of
+   4,500-6,000 words in length. The paper will have a formal bibliography. The topic
+   will be of the student’s choosing, and will  analyze broader social or cultural issues, 
+   such as gender, race, sport, class, invention, urbanity, work, youth,
+   protest, etc. in the context of a Global 1968. Topics can be about the lead
+   up to, the crisis, or the aftermath of 1968, conceived broadly. As such,
+   topics cannot be exlusively about the United States, but must engage
+   a global setting. Topic selection must also come with a primary source base
+   that you can work with during the course of the semester.
 
