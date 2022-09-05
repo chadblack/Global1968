@@ -31,9 +31,8 @@ There are four books for purchase:
 
 1. **Participation and Self-Evaluation. (15%)**
 
-   This course requires your active participation in film
-   discussions and lecture. All students must participate in discussions
-   and as we dissect the films.
+   This course requires your active participation in book
+   discussions and lecture. YOU MUST READ WEEKLY FOR THIS CLASS.
 
 2. **Weekly Assignments. (35%)**
 
