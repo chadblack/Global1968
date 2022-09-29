@@ -108,8 +108,10 @@ a showcase of statecraft and sportwashing.
 
 **DUE:**  
 
-* A finalized topic in one paragraph.
-* A précis for Zolov.
+* An analysis or narrative of your set of 10 documents. Please use the document
+  number (either written by me at the top of the paper copy, or as provided on
+  the National Security Archive
+  [website](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB99/).
 
 
 ## Oct. 5: Fall Break
@@ -136,7 +138,8 @@ Enjoy your break. But not too much.
 
 * Pick two of the readings, and write précis.
 
-* Annotated bibliography with secondary and primary sources.
+* Finalized topic expressed in one paragraph and including your **historical
+  question**. 
 
 ## Oct. 19: What were the Stakes -- Japan Part 2.
 
@@ -151,6 +154,7 @@ Enjoy your break. But not too much.
 **DUE:** 
 
 * Reading précis.
+* Bibliography and primary source collections for your paper.
 
 ## Oct. 26: From 1968 -- France Part 1.
 
